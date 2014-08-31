@@ -1,12 +1,14 @@
 john-scripts
 ============
 
-A collection of john the ripper modes and scripts.
-John the ripper can be found http://www.openwall.com/john/
+A collection of john the ripper modes and scripts. John the ripper can be found http://www.openwall.com/john/
 
 crimson4.conf - An external mode to provide a more efficent brute force for the 1st trillion guesses using entropy.
+
 hex/hex.conf - An incremental mode to generate all possible 8 digit hexidecimal values
+
 hex/hex_lower.chr - Charset file [0-9a-f] to support the hex incremental mode
+
 hex/hex_upper.chr - Charset file [0-9A-F] to support the hex incremental mode
 
 Install
